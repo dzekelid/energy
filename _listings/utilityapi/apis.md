@@ -1,0 +1,29 @@
+---
+name: UtilityAPI
+description: UtilityAPI is an enterprise software company that delivers simple access
+  to energy usage data. We aim to solve one of the biggest soft cost problems in the
+  industry. We are currently in the SfunCube Solar Accelerator Program, as well as
+  the Department of Energys SunShot Catalyst Program.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UtilityAPI_logo_500_310.png
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Stack Network
+- Energy
+- Energy
+created: "2018-03-10"
+modified: "2018-03-10"
+url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/utilityapi/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: https://utilityapi.com/blog
+- type: x-twitter
+  url: https://twitter.com/UtilityAPI
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
