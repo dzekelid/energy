@@ -25,7 +25,7 @@ apis:
   tags: Energy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/weatherbit/history-energy-bbox-lat1-lat1-lon1-lon1-lat2-lat2-lon2-lon2-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/weatherbit/history-energy-lat-lat-lon-lon-get.md
 x-common:
 - type: x-blog
   url: https://www.weatherbit.io/blog
