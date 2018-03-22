@@ -12,9 +12,9 @@ x-kinRank: "8"
 x-alexaRank: ""
 tags:
 - Weather
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/weatherbit/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/weatherbit/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Weatherbit
@@ -25,7 +25,7 @@ apis:
   tags: Energy
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/weatherbit/history-energy-lat-lat-lon-lon-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/weatherbit/history-energy-bbox-lat1-lat1-lon1-lon1-lat2-lat2-lon2-lon2-get.md
 x-common:
 - type: x-blog
   url: https://www.weatherbit.io/blog
