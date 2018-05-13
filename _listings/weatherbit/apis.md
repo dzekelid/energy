@@ -26,7 +26,35 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/weatherbit/history-energy-lat-lat-lon-lon-get.md
+- name: Weatherbit Get History Energy Bbox Lat1 Lat1 &lon1 Lon1 &lat2 Lat2 &lon2 Lon2
+  description: 'Returns aggregate energy specific historical weather fields, over
+    a specified time period. Supply a bounding box ex: lat1=40&lon1=-78&lat2=38&lon2=-80.
+    This API will return UP TO 150 stations, aggregated by the specified time period
+    start_date to end_date.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/weatherbit-logo.png
+  humanURL: https://www.weatherbit.io/api
+  baseURL: https://api.weatherbit.io//v2.0
+  tags: Energy
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/weatherbit/history-energy-bbox-lat1-lat1-lon1-lon1-lat2-lat2-lon2-lon2-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/weatherbit/history-energy-bbox-lat1-lat1-lon1-lon1-lat2-lat2-lon2-lon2-get-postman.md
 x-common:
+- type: x-blog
+  url: https://www.weatherbit.io/blog
+- type: x-contact-form
+  url: https://www.weatherbit.io/contact
+- type: x-documentation
+  url: https://www.weatherbit.io/api
+- type: x-github
+  url: https://github.com/weatherbit
+- type: x-pricing
+  url: https://www.weatherbit.io/pricing
+- type: x-twitter
+  url: https://twitter.com/weatherbitio
+- type: x-website
+  url: https://www.weatherbit.io/api
 - type: x-blog
   url: https://www.weatherbit.io/blog
 - type: x-contact-form
