@@ -1,12 +1,12 @@
 ---
 swagger: "2.0"
 info:
-  title: Weatherbit
-  description: This is the documentation for the Weatherbit API.  The base URL for
-    the API is [http://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/) or
-    [https://api.weatherbit.io/v2.0/](http://api.weatherbit.io/v2.0/). Below is the
-    Swagger UI documentation for the API. All API requests require the `key` parameter.        An
-    Example for a 5 day forecast for London, UK would be `http://api.weatherbit.io/v2.0/forecast/3hourly?city=London`&amp;`country=UK`
+  title: Weatherbit Get History Energy Bbox Lat1 Lat1 &lon1 Lon1 &lat2 Lat2 &lon2
+    Lon2
+  description: 'Returns aggregate energy specific historical weather fields, over
+    a specified time period. Supply a bounding box ex: lat1=40&lon1=-78&lat2=38&lon2=-80.
+    This API will return UP TO 150 stations, aggregated by the specified time period
+    start_date to end_date.'
   version: 2.0.0
 host: api.weatherbit.io
 basePath: /v2.0
