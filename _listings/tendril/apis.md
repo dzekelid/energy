@@ -1,23 +1,32 @@
 ---
 name: Tendril
-description: Tendril focuses on the efficient use of energy by creating energy usage
-  metric devices and analysis software to highlight excesses. Their technology facilitates
-  a dialog between consumers and suppliers through an energy ecosystem that connects
-  in-home devices (like thermostats) to the utility back office.
-image: http://pbs.twimg.com/profile_images/1632179196/fortumo-uuslogo-flower_normal.png
+x-slug: tendril
+description: With more than a decade of expertise in energy and behavioral science,
+  Tendril is applying its unique software platform to change the way energy products
+  and services are marketed and consumed.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/257-tendril.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- Home
-- Energy
-- Buildings
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/energy/master/_listings/tendril/apis.yaml
+x-alexaRank: "1165758"
+tags: Energy
+created: "2018-08-23"
+modified: "2018-08-23"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/tendril/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Tendril
+  x-api-slug: tendril
+  description: Tendril creates energy usage measurement devices and analysis software.
+    Their products are powered by Tendril Connect, a platform that creates a dialog
+    between energy service providers and their customers. Tendril????s existing, published
+    APIs are designed to determine energy usage and cost of energy usage information.
+    Users must register for the developer program to gain access to the APIs and documentation.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/257-tendril.jpg
+  humanURL: http://www.tendrilinc.com/
+  baseURL: https:///
+  tags: Energy
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/tendril/openapi.md
 x-common:
 - type: x-base
   url: https://dpu-ten-web.tendril-connect.com/api/rest/
@@ -27,12 +36,16 @@ x-common:
   url: http://www.tendrilinc.com/about-us/news-room/blog/feed
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/tendril
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/tendril
 - type: x-developer
   url: https://api.tendrilinc.com/
 - type: x-github
   url: https://github.com/tendril
 - type: x-twitter
   url: https://twitter.com/mintendrileful
+- type: x-twitter
+  url: https://twitter.com/Tendril
 - type: x-website
   url: http://www.tendrilinc.com/
 include: []
