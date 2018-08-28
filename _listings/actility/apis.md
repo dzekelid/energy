@@ -7,66 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-acti
 x-kinRank: "7"
 x-alexaRank: "637591"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/apis.md
 specificationVersion: "0.14"
-apis:
-- name: ThingPark DX Admin API
-  x-api-slug: thingpark-dx-admin-api
-  description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
-    connectivity management for the Internet of Things: the ThingPark platform'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
-  humanURL: https://www.actility.com
-  baseURL: https://dx-api.thingpark.com//admin/v140/api
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/openapi.md
-- name: ThingPark DX Core API
-  x-api-slug: thingpark-dx-core-api
-  description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
-    connectivity management for the Internet of Things: the ThingPark platform'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
-  humanURL: https://www.actility.com
-  baseURL: https://dx-api.thingpark.com//core/v141/api
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/openapi.md
-- name: ThingPark DX Dataflow API
-  x-api-slug: thingpark-dx-dataflow-api
-  description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
-    connectivity management for the Internet of Things: the ThingPark platform'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
-  humanURL: https://www.actility.com
-  baseURL: https://dx-api.thingpark.com//dataflow/v021/api
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/openapi.md
-- name: ThingPark DX Location API
-  x-api-slug: thingpark-dx-location-api
-  description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
-    connectivity management for the Internet of Things: the ThingPark platform'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
-  humanURL: https://www.actility.com
-  baseURL: https://dx-api.thingpark.com//location/v110
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/openapi.md
-- name: ThingPark DX Maker API
-  x-api-slug: thingpark-dx-maker-api
-  description: 'Actility is the leader in low power wide area (LoRaWAN and 3GPP) network
-    connectivity management for the Internet of Things: the ThingPark platform'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg
-  humanURL: https://www.actility.com
-  baseURL: https://dx-api.thingpark.com//maker/v011/api
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/actility/openapi.md
+apis: []
 x-common:
 - type: x-blog-rss
   url: https://www.actility.com/blog/feed/

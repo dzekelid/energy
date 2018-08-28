@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/269-u-s--e
 x-kinRank: "8"
 x-alexaRank: "16736"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/u-s--energy-information-administration/apis.md
 specificationVersion: "0.14"
-apis:
-- name: U.S. Energy Information Administration
-  x-api-slug: u-s--energy-information-administration
-  description: The U.S. Energy Information Administration (EIA) collects, analyzes,
-    and disseminates independent and impartial energy information to promote sound
-    policymaking, efficient markets, and public understanding of energy and its interaction
-    with the economy...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/269-u-s--energy-information-administration.jpg
-  humanURL: http://www.eia.gov
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/u-s--energy-information-administration/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.eia.gov

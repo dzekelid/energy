@@ -6,21 +6,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/551-bright
 x-kinRank: "7"
 x-alexaRank: "7677529"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/brighter-planet/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Brighter Planet
-  x-api-slug: brighter-planet
-  description: Custom quantitative sustainability applications
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/551-brighter-planet.jpg
-  humanURL: http://impact.brighterplanet.com/
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/brighter-planet/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/brighter-planet

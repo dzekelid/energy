@@ -8,25 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/257-tendri
 x-kinRank: "8"
 x-alexaRank: "1165758"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/tendril/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Tendril
-  x-api-slug: tendril
-  description: Tendril creates energy usage measurement devices and analysis software.
-    Their products are powered by Tendril Connect, a platform that creates a dialog
-    between energy service providers and their customers. Tendril????s existing, published
-    APIs are designed to determine energy usage and cost of energy usage information.
-    Users must register for the developer program to gain access to the APIs and documentation.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/257-tendril.jpg
-  humanURL: http://www.tendrilinc.com/
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/tendril/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://dpu-ten-web.tendril-connect.com/api/rest/

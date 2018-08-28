@@ -10,26 +10,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28705-www-
 x-kinRank: "7"
 x-alexaRank: "3000763"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/kayrros/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Kayrros
-  x-api-slug: kayrros
-  description: We track the journey of energy from production to consumption to help
-    our customers understand the fundamentals and financials of the market globally,
-    and to benefit from that knowledge. The information we produce can cover all energy
-    sources, in all geographies across every step of the energy journey. It helps
-    our customers to minimise their risk, maximise their upside and to make better
-    decisions.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28705-www-kayrros-com.jpg
-  humanURL: https://www.kayrros.com
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/kayrros/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/kayrros

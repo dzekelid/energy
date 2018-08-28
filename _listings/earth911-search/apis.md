@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1407-earth
 x-kinRank: "7"
 x-alexaRank: "95199"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/earth911-search/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Earth911 Search
-  x-api-slug: earth911-search
-  description: 'Commenting Policy:    Your comments are encouraged on our page. Please
-    be respectful - any comments using hate-speech or profanity will be deleted. Users
-    who repeatedly spam the page will be banned. Also, solicitations of any kind will
-    be removed as we...'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1407-earth911-search.jpg
-  humanURL: http://api.earth911.com/
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/earth911-search/openapi.md
+apis: []
 x-common:
 - type: x-github
   url: http://github.com/earth911/

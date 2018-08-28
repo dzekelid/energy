@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10247-cice
 x-kinRank: "7"
 x-alexaRank: "364769"
 tags: Energy
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/cicero-team/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cicero Team
-  x-api-slug: cicero-team
-  description: Cicero is a comprehensive database of elected officials and legislative
-    districts. Cicero enables you to match constituents with their representatives
-    based on address-level data, leading to endless possibilities.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10247-cicero-team.jpg
-  humanURL: https://www.cicerodata.com/
-  baseURL: https:///
-  tags: Energy
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/energy/master/_listings/cicero-team/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/ciceroapi
